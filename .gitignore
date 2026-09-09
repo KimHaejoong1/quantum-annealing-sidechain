@@ -1,0 +1,10 @@
+# Only the small, reviewed source bundle is publishable by default.
+*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/model.py
+!/run_qa.py
+!/solve_reference.py
+!/image/
+!/image/methodology.png
